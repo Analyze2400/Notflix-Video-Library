@@ -1,0 +1,5 @@
+{
+  "name": "Notflix",
+  "description": "A Netflix-style video management application.",
+  "requestFramePermissions": []
+}
